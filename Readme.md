@@ -1,8 +1,8 @@
 # MathMate - 수학을 친구처럼! 쉽고 재미있게 수학 개념을 익힐 수 있는 서비스
 
-![[https://velog.velcdn.com/images/kirby0418/post/685f54eb-5762-4a53-bdef-953b2f6d1f10/image.png]]
+![logo](./logo.png)
 
-# 🩵MathMate🩵 - 프로젝트 개요
+# 🩵MathMate🩵 - 프로젝트 개요
 
 > **MathMate : 당신의 수학 친구가 되어드릴게요.**  
 > **기획기간: 2024.07.15~2024.07.17**
