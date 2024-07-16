@@ -1,6 +1,6 @@
 # MathMate - 수학을 친구처럼! 쉽고 재미있게 수학 개념을 익힐 수 있는 서비스
 
-![[Pasted image 20240716185417.png]]
+![[https://velog.velcdn.com/images/kirby0418/post/685f54eb-5762-4a53-bdef-953b2f6d1f10/image.png]]
 
 # 🩵MathMate🩵 - 프로젝트 개요
 
@@ -136,3 +136,5 @@
     └── styles
         └── Home.module.css
 ```
+
+# boot-up2-mathmate
