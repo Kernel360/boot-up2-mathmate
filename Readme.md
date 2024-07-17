@@ -23,7 +23,7 @@
 
 > <br>
 
-> 데이터 모델링(ERD) :
+> 데이터 모델링(ERD) : ![erd](./MathMateERD.png)
 
 > <br>
 
