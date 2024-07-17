@@ -13,23 +13,33 @@
 
 ## 🗓️ 기획안
 
-> 요구사항 정의서 : https://docs.google.com/spreadsheets/d/1SwFm62ZFwaKZ_Ii6iGEoF-KPWIPlPxRlNmaQUcv1MYc/edit?usp=sharing > <br>
+> 요구사항 정의서 : https://docs.google.com/spreadsheets/d/1SwFm62ZFwaKZ_Ii6iGEoF-KPWIPlPxRlNmaQUcv1MYc/edit?usp=sharing >
 
-> 기능 명세서 : https://sincere-nova-ec6.notion.site/cd31748f48af4b04b5fca1513349a272?pvs=4 > <br>
+<br>
 
-> 프로젝트 계획서 : https://sincere-nova-ec6.notion.site/80697b45493446acb5723012b60797c7?pvs=4 > <br>
+> 기능 명세서 : https://sincere-nova-ec6.notion.site/cd31748f48af4b04b5fca1513349a272?pvs=4 >
+
+<br>
+
+> 프로젝트 계획서 : https://sincere-nova-ec6.notion.site/80697b45493446acb5723012b60797c7?pvs=4 >
+
+<br>
 
 > 아키텍쳐 설계 :
 
-> <br>
+<br>
 
-> 데이터 모델링(ERD) : ![erd](./MathMateERD.png)
+> 데이터 모델링(ERD) :
 
-> <br>
+![erd](./MathMateERD.png)
+
+<br>
 
 > 플로우 차트 :
 
-> <br> > **UI/UX 디자인(Figma)** : [https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1](https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1)
+<br>
+
+> **UI/UX 디자인(Figma)** : [https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1](https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1)
 
 ## 👥 일석삼조팀 소개
 
@@ -96,6 +106,8 @@
 | | |
 
 | 커리큘럼 소개 페이지 | 개념 학습 페이지 |
+
+| :--------------: | :---------------: |
 
 | | |
 
