@@ -38,6 +38,8 @@
 
 > 플로우 차트 :
 
+[플로우차트](https://www.figma.com/board/oH6JiSzoebES8RKL24kDVc/Untitled?node-id=0-1&t=KoI5wbtQwKCZmHU1-1)
+
 <br>
 
 > **UI/UX 디자인(Figma)** : [https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1](https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1)
