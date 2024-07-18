@@ -177,11 +177,12 @@ MathMate는 수학이 어려운 중학교, 고등학교 학생들을 위해서 �
 </div>
 
 ### Communication 💬
+<p>
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
-
+</p>
 
 ---
 
