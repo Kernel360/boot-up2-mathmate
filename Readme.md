@@ -14,19 +14,67 @@
 
 ## 🗓️ 기획안
 
-> 요구사항 정의서 : https://docs.google.com/spreadsheets/d/1SwFm62ZFwaKZ_Ii6iGEoF-KPWIPlPxRlNmaQUcv1MYc/edit?usp=sharing >
+### 요구사항 정의서
+[요구사항 정의서 - 구글도큐먼트](https://docs.google.com/spreadsheets/d/1SwFm62ZFwaKZ_Ii6iGEoF-KPWIPlPxRlNmaQUcv1MYc/edit?usp=sharing)
 
 <br>
 
-> 기능 명세서 : https://sincere-nova-ec6.notion.site/cd31748f48af4b04b5fca1513349a272?pvs=4 >
+### 기능명세서
+ [기능 명세서 - 노션](https://sincere-nova-ec6.notion.site/cd31748f48af4b04b5fca1513349a272?pvs=4)
 
 <br>
 
-> 프로젝트 계획서 : https://sincere-nova-ec6.notion.site/80697b45493446acb5723012b60797c7?pvs=4 >
+### 프로젝트 계획서
+[프로젝트 계획서 - 노션](https://sincere-nova-ec6.notion.site/80697b45493446acb5723012b60797c7?pvs=4)
 
 <br>
 
-> 아키텍쳐 설계 :
+### 아키텍쳐 설계
+![스크린샷 2024-07-18 오후 12 26 36](https://github.com/user-attachments/assets/1ee4ef9a-5973-492d-9ade-a506147b0f61)
+
+#### 클라이언트
+- 플러터
+  -  크로스 플랫폼 개발 지원
+  -  풍부한 디자인 도구 지원
+  -  핫 로딩으로 개발 기간을 단축
+#### 서버
+- AWS EC2
+  - 용량을 늘리거나 줄일 수 있다.
+  - 사용한만큼 지불하므로 저렴하다.
+  - 사용자가 인스턴스를 완전히 제어할 수 있다.
+  - 보안 및 네트워크 구성, 스토리지 관리 효과적이다.
+- 스프링 부트
+  - 코드의 길이를 줄이는 어노테이션 제공으로 개발 시간 단축
+  - 서버(아파치 톰캣)의 내장
+  - 스프링 시큐리티, 필터 등 안정적이고 보안이 높은 애플리케이션 개발 가능
+- 아파치 톰캣
+  -  빠른 서버 배포 가능
+  -  스프링 부트에 내장
+- AWS RDS
+  - 원하는 만큼 사이즈를 늘리거나 줄일 수 있는 탄력성
+  - 다양한 DBMS 제공으로 높은 호환성
+  - 쉬운 세팅 
+- MySQL
+  - 가장 대중적인 DBMS
+  - 스프링 부트와 높은 호환성
+  - 손쉬운 사용
+- Redis
+  - **높은 트래픽**에서 빠른 DB 통신 제공
+  - 다양한 프로그래밍 언어로 개발 가능 
+- R3
+  - 높은 내구도를 자랑하며 정보를 안전하게 저장 가능
+  - 저렴한 비용으로 사용 가능(ec2에 데이터를 저장하면 비용이 많이 나감)
+  - 보안성이 뛰어남
+  - 속도가 빠름
+  - 나라별로 스토리지 버킷 지원이 가능
+  - 버킷 버전 관리 가능
+#### 외부 Open Api 
+- 유니서트
+  - 국내 대학교 인증을 위한 API 제공
+- 소셜로그인
+  - 카카오, 네이버, 구글 등 이미 가입된 사용자의 **가용성**을 높임 
+
+
 
 <br>
 
