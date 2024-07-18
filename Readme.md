@@ -10,26 +10,84 @@
 
 <br>
 
+## 👥 일석삼조팀 소개
+
+## 🌟 1~2일차
+
+|                    김민주                    |                      양상원                      |               박수형               |
+| :------------------------------------------: | :----------------------------------------------: | :--------------------------------: |
+| [@Minju-Kimm](https://github.com/Minju-Kimm) | [@sangwonsheep](https://github.com/sangwonsheep) | [@Gyaak](https://github.com/Gyaak) |
+
+## 🌟 3~4일차
+
+|                    김민주                    |                이선우                |                이강민                |
+| :------------------------------------------: | :----------------------------------: | :----------------------------------: |
+| [@Minju-Kimm](https://github.com/Minju-Kimm) | [@I-migi](https://github.com/I-migi) | [@km2535](https://github.com/km2535) |
+
+## 🌟 프로젝트 소개
+MathMate는 수학이 어려운 중학교, 고등학교 학생들을 위해서 수학을 포기하지 않고 수학의 개념들을 가벼운 마음으로 접할 수 있도록 개념들을 익힐 수 있는 퀴즈와 모르는 문제가 있거나 앞으로의 계획이 고민될 때 사용할 수 있는 Q&A 서비스를 제공해주는  어플입니다
+
 > **따분하고 어려운 수학 개념서에 의해 "학습 부진" 상태가 된 중고등학생들의 수학 학력 수준을 높여주고, 저렴한 구독료로 Q&A 서비스를 이용하여 수학 공부에 어려움을 겪는 학생들에게 도움을 줄 수 있는 서비스**
 
 ## 🗓️ 기획안
 
+### 프로젝트 계획서
+[프로젝트 계획서 - 노션](https://sincere-nova-ec6.notion.site/80697b45493446acb5723012b60797c7?pvs=4)
+### 개요
+- 프로젝트명 : MathMate
+- 기간 : 2024년 7월 15일 ~ 2024년8월 31일(1.6개월 간)
+- 참여인원 : 3명
+    - 사용자, 마이페이지, 설정 : 김민주
+    - 컨텐츠, 퀴즈 : 박수형
+    - Q&A 게시판, 관리자 : 양상원
+    - KBE2_이선우
+    - KBE2_이강민
+- 프로젝트 일정 및 내용
+    - 기획 및 디자인 : 2024년 7월 18일 마감
+    - 개발 : 2024년 8월 중 마감
+- 기대효과
+    - 딱딱하고 어려운 수학 개념서에 의해 학습 부진 상태가 된 중고등학생들의 수학 학력 수준을 높여줄 것으로 기대된다.
+    - 보다 저렴한 구독료로 “MathMate” 서비스 내의 무제한 Q&A 서비스를 이용하여 수학 공부에 어려움을 겪는 학생들에게 도움이 될 것으로 기대된다.
+    - 학생들이 개념서를 구매하지 않고도 무료로 어려운 수학 개념을 더욱 간단하고 쉽게 공부할 수 있게 되어, 수학에 대한 학생들의 흥미가 올라갈 것으로 기대된다.
+
+
+![image](https://github.com/user-attachments/assets/2ecc96df-be98-4c4e-bdad-c1c7d86e5b05)
+![image](https://github.com/user-attachments/assets/2a435d6f-49de-4142-bc7e-94fa94b08fce)
+![image](https://github.com/user-attachments/assets/0d949558-d2d1-48c8-8756-851038256045)
+
+<br>
+
 ### 요구사항 정의서
+
 [요구사항 정의서 - 구글도큐먼트](https://docs.google.com/spreadsheets/d/1SwFm62ZFwaKZ_Ii6iGEoF-KPWIPlPxRlNmaQUcv1MYc/edit?usp=sharing)
 
 <br>
 
 ### 기능명세서
+
  [기능 명세서 - 노션](https://sincere-nova-ec6.notion.site/cd31748f48af4b04b5fca1513349a272?pvs=4)
 
+ 
+![image](https://github.com/user-attachments/assets/ed4eaae1-09c1-4df9-b02b-67dfa3d7419b)
+![image](https://github.com/user-attachments/assets/3a939ba0-14fc-4d3e-922b-bb34bccff8b7)
+![image](https://github.com/user-attachments/assets/a7a09425-c0af-4c30-b239-58b53d89f0ac)
+![image](https://github.com/user-attachments/assets/558baf9b-b361-4f2c-8f9f-6640da75c453)
+![image](https://github.com/user-attachments/assets/741f1bc3-7f73-433d-b232-0e797c5963cb)
+![image](https://github.com/user-attachments/assets/e60863fe-ec18-4009-9481-aae3ed70726d)
+![image](https://github.com/user-attachments/assets/8a808618-112d-40e6-8e0b-5bf7c4b459de)
+
 <br>
+### API 명세서
 
-### 프로젝트 계획서
-[프로젝트 계획서 - 노션](https://sincere-nova-ec6.notion.site/80697b45493446acb5723012b60797c7?pvs=4)
+![image](https://github.com/user-attachments/assets/71c350ca-6390-4df5-b99c-1112978f8efc)
+![image](https://github.com/user-attachments/assets/b7b76d3b-98c4-4460-99c4-759274aaee58)
+![image](https://github.com/user-attachments/assets/98a8058f-32b4-469e-9e09-d3fb1a940516)
+![image](https://github.com/user-attachments/assets/a9dcbab2-cd04-4dae-a78f-c9c3443294b5)
+![image](https://github.com/user-attachments/assets/6e5feca2-6d27-415b-873d-3fa390798c4e)
 
 <br>
-
 ### 아키텍쳐 설계
+
 ![스크린샷 2024-07-18 오후 12 26 36](https://github.com/user-attachments/assets/1ee4ef9a-5973-492d-9ade-a506147b0f61)
 
 #### 클라이언트
@@ -92,26 +150,6 @@
 
 > **UI/UX 디자인(Figma)** : [https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1](https://www.figma.com/design/JMyzXiXA4zmF2i3AqxTrvO/MathMate?node-id=0-1&t=5i8bVUEYQqG4RP0X-1)
 
-## 👥 일석삼조팀 소개
-
-## 🌟 1~2일차
-
-|                    김민주                    |                      양상원                      |               박수형               |
-| :------------------------------------------: | :----------------------------------------------: | :--------------------------------: |
-| [@Minju-Kimm](https://github.com/Minju-Kimm) | [@sangwonsheep](https://github.com/sangwonsheep) | [@Gyaak](https://github.com/Gyaak) |
-
-## 🌟 3~4일차
-
-|                    김민주                    |                이선우                |                이강민                |
-| :------------------------------------------: | :----------------------------------: | :----------------------------------: |
-| [@Minju-Kimm](https://github.com/Minju-Kimm) | [@I-migi](https://github.com/I-migi) | [@km2535](https://github.com/km2535) |
-
-## 🌟 프로젝트 소개
-MathMate는 수학이 어려운 중학교, 고등학교 학생들을 위해서 수학을 포기하지 않고 수학의 개념들을 가벼운 마음으로 접할 수 있도록 개념들을 익힐 수 있는 퀴즈와 모르는 문제가 있거나 앞으로의 계획이 고민될 때 사용할 수 있는 Q&A 서비스를 제공해주는  어플입니다
-## 🌟 시작 가이드
-#멘토
-: 학교 이메일과 
-#멘티:
 ---
 
 ## Stacks 🐈
@@ -129,18 +167,20 @@ MathMate는 수학이 어려운 중학교, 고등학교 학생들을 위해서 �
 
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </p>
-### Development 🔨
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
 
+### Development 🔨
+<p>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
 
 </div>
 
 ### Communication 💬
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
 
 
 ---
@@ -170,7 +210,3 @@ MathMate는 수학이 어려운 중학교, 고등학교 학생들을 위해서 �
 ### ⭐️티어가 무려 10개! 수학 공부를 더 재미있게 도와주는 리그 시스템
 
 ---
-
-## 아키텍쳐
-
-### 디렉토리 구조
