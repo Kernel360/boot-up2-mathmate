@@ -117,32 +117,23 @@ MathMate는 수학이 어려운 중학교, 고등학교 학생들을 위해서 �
 ## Stacks 🐈
 
 ### Environment 🐈🐈
-#F8DC75
+<img src="https://img.shields.io/badge/Tomcat-#F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+
 ### Development 🔨
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
 
-<div style="display:flex; flex-direction=row;">
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
-
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
 </div>
 
 ### Communication 💬
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
 
-[![Slack](https://camo.githubusercontent.com/8b20df4dce83849ed91f5dba04a42e793499dcd1064c094153dba4c1447390f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/8b20df4dce83849ed91f5dba04a42e793499dcd1064c094153dba4c1447390f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465) [![Notion](https://camo.githubusercontent.com/c8820d740db3809eac6809b9da45c5178fdc41e97a6a433046a4a5c05b91ef93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/c8820d740db3809eac6809b9da45c5178fdc41e97a6a433046a4a5c05b91ef93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465) [![GoogleMeet](https://camo.githubusercontent.com/6c2eea8252c0d09fbde43bff66e496f11edd2a8b7adbc4b3bc0d7567ca5d4c17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c654d6565742d3030383937423f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c652532304d656574266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6c2eea8252c0d09fbde43bff66e496f11edd2a8b7adbc4b3bc0d7567ca5d4c17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c654d6565742d3030383937423f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c652532304d656574266c6f676f436f6c6f723d7768697465)
 
 ---
 
